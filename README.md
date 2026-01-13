@@ -12,24 +12,7 @@ This repository contains a Python Jupyter Notebook that uses GARCH family models
 
 ## Files
 
-* `Volatility_Forecasting_GARCH_ETH.ipynb`: The main Jupyter Notebook containing all the analysis and code.
-* `ETH_LAST5YEAR_1D.csv`: The sample ETH/USD daily price data used in the analysis.
-* *(You can also add the generated plot `.png` files here, e.g., `gjr_garch_skewt_dist_1d_walkforward_analysis_ETH.png`)*
-
-## How to Run
-
-1.  Clone this repository to your computer (`git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git`).
-2.  Navigate into the cloned directory: `cd YOUR_REPOSITORY_NAME`.
-3.  Install the required Python libraries:
-    ```bash
-    pip install pandas numpy matplotlib arch scikit-learn jupyterlab
-    ```
-4.  Launch Jupyter Lab:
-    ```bash
-    jupyter lab
-    ```
-5.  Open the `Volatility_Forecasting_GARCH_ETH.ipynb` notebook from the Jupyter interface.
-6.  Follow the steps inside the notebook to execute the code cells. Make sure the data file (`ETH_LAST5YEAR_1D.csv`) is in the same directory as the notebook.
+* `main.ipynb`: The main Jupyter Notebook containing all the analysis and code.
 
 ## Libraries Used
 
